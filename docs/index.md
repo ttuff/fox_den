@@ -1,204 +1,126 @@
-# Project Title 
+# Sunny 3BD Retreat Near CU – Great Winter Rates
 
+> All bookings, messaging, and payments are handled securely through Airbnb.  
+> This page is just an easy way to see details and photos in one place.
 
-<p style="text-align: right;"><a href="https://github.com/CU-ESIIL/Project_group_OASIS/edit/main/docs/index.md" title="Edit this page">✏️</a></p>
-
-<!-- =========================================================
-HERO (Swap hero.jpg, title, strapline, and the three links)
-========================================================= -->
-
-![Wide banner of the study system](assets/hero.jpg)
-[Raw photo location: hero.jpg](https://github.com/CU-ESIIL/Project_group_OASIS/blob/main/docs/assets/hero.jpg)
-
-**One sentence on impact:** In 3 days, we explore *X* to inform *Y*, producing actionable visuals, a concise brief, and shareable code.
-
-**[Project brief (PDF)](#) · [View shared code](https://github.com/CU-ESIIL/Project_group_OASIS/tree/main/code) · [Data & access](data.md)**
-
-> **About this site:** This is a public, in-progress record of a 3-day project at the Innovation Summit. Edit everything here in your browser: open a file → pencil icon → Commit changes.
+[:material-airbnb: View listing on Airbnb](https://www.airbnb.com/rooms/1529214807731831639){ .md-button .md-button--primary target="_blank" }
 
 ---
 
-## How to use this page (for the team)
-- **Edit this file:** `docs/index.md` → ✎ → change text → **Commit changes**.
-- **Add images:** upload to `docs/assets/` and reference like `assets/your_file.png`.
-- Keep **text short** and **visuals first**. Think “slide captions,” not essays.
+## Overview
+
+This sunny three-bedroom home in Boulder is a comfortable base for trips to **CU Boulder**, downtown, and the nearby foothills. The layout works well for small groups, visiting family, and longer work trips.
+
+- **3 bedrooms · 2 bathrooms**
+- **Fast Wi-Fi and a work-friendly setup**
+- **Quiet neighborhood** with easy access to campus and trailheads
+
+The main living area gets plenty of natural light during the day, with seating for hanging out, reading, or getting some laptop time in before you head out.
 
 ---
 
-## Day 1 — Define & Explore
-*Focus: questions, hypotheses, context; add at least one visual (photo of whiteboard/notes).*
+## Highlights
 
-### Our product 📣
-- What product do you want to create as a team?
-
-### Our question(s) 📣
-<!-- EDIT: Replace bullets with your own. Encourage divergent takes. -->
-- What are we trying to understand or change?
-- Why now? Why here?
-- Who benefits if we succeed?
-
-### Hypotheses / intentions [Optional: probably not relevant if you are creating an educational tool]
-<!-- EDIT: Plain language, short and honest. -->
-- We think that …
-- We intend to test whether …
-- We will know we’re onto something if …
-
-### Why this matters (the “upshot”) 📣
-<!-- EDIT: 2–3 sentences max, decision-oriented. -->
-Explain who is impacted and how this could change decisions or understanding.
-
-### Inspirations (papers, datasets, tools)
-<!-- EDIT: Swap in your own links. -->
-- Publication: [Influential paper title](https://doi.org/xxxx)
-- Dataset portal: [Example data hub](https://example.org)
-- Tool/tech: [Method or library](https://example.org)
-
-### Field notes / visuals
-<!-- EDIT: Replace with a real smartphone photo or sketch; keep filename simple. -->
-![Whiteboard brainstorm (replace this)](assets/day1_whiteboard.jpg)
-[Raw photo location: day1_whiteboard.jpg](https://github.com/CU-ESIIL/Project_group_OASIS/blob/main/docs/assets/day1_whiteboard.jpg)
-*Caption: What this shows and why it’s useful today.*
-
-> **Different perspectives:** Briefly capture disagreements or alternate framings. These can unlock innovation.
+- **Bright, open living space** – Large windows and comfortable furniture make it a relaxing place to start and end your day.
+- **Cook-ready kitchen** – Full kitchen with modern appliances and the basics you need to make meals at home.
+- **Work-from-Boulder friendly** – Fast Wi-Fi and a small workspace area for calls and emails.
+- **Convenient but quiet** – Close to CU Boulder and downtown, without giving up a calm neighborhood feel.
 
 ---
 
-## Day 2 — Data & Methods
-*Focus: what we’re testing and building; show a first visual (plot/map/screenshot/GIF).*
+## Sleeping arrangements
 
-### Data sources we’re exploring 📣
-<!-- EDIT: Link each source; add size/notes if relevant. -->
-- **Source A**
+> Adjust this section textically if your exact bed layout is different.
 
-  ![Pattern revealed during exploration](assets/explore_data_plot.png)
-[Raw photo location: explore_data_plot.png](https://github.com/CU-ESIIL/Project_group_OASIS/blob/main/docs/assets/explore_data_plot.png)
-  *Snapshot showing initial data patterns.*
+- **Bedroom 1** – Queen bed · closet space · good natural light  
+- **Bedroom 2** – Queen bed · dresser · located in a quieter part of the house  
+- **Bedroom 3** – Flexible setup (e.g., twin beds or office/guest combo), good for kids or mixed groups
 
-- Source B — link and 1-line description
-
-### Methods / technologies we’re testing 📣
-- Approach 1 (e.g., time-series break detection)
-- Approach 2 (e.g., random forest on features)
-- Visualization (e.g., map tiles, small multiples)
-
-### Challenges identified
-- Data gaps / quality issues
-- Method limitations / compute constraints
-- Open questions we need to decide on
-
-### Visuals
-<!-- EDIT: Swap examples; keep file sizes modest. -->
-#### Static figure
-![Early pattern we’re seeing](assets/figure1.png)
-[Raw photo location: figure1.png](https://github.com/CU-ESIIL/Project_group_OASIS/blob/main/docs/assets/figure1.png)
-*Figure 1.* One line on what this suggests.
-
-#### Animated change (GIF)
-![Seasonal/temporal change animation](assets/change.gif)
-[Raw photo location: change.gif](https://github.com/CU-ESIIL/Project_group_OASIS/blob/main/docs/assets/change.gif)
-*Figure 2.* One line on what changes across time.
-
-#### Interactive map (iframe)
-<iframe
-  title="Study area (OpenStreetMap)"
-  src="https://www.openstreetmap.org/export/embed.html?bbox=-105.35%2C39.90%2C-105.10%2C40.10&layer=mapnik&marker=40.000%2C-105.225"
-  width="100%" height="360" frameborder="0"></iframe>
-<p><a href="https://www.openstreetmap.org/?mlat=40.000&mlon=-105.225#map=12/40.0000/-105.2250">Open full map</a></p>
-
-> If an embed doesn’t load, put the normal link directly under it.
+Each room has fresh linens, pillows, and space to unpack so you don’t have to live out of a suitcase the whole time.
 
 ---
 
-## Final Share Out — Insights & Sharing 
-*Focus: synthesis; highlight 2–3 visuals that tell the story; keep text crisp. Practice a 2-minute walkthrough of the homepage 📣: Why → Questions → Data/Methods → Findings → Next.*
+## Amenities
 
-![Team photo at start of Day 3](assets/team_photo.jpg)
-[Raw photo location: team_photo.jpg](https://github.com/CU-ESIIL/Project_group_OASIS/blob/main/docs/assets/team_photo.jpg)
+Core amenities (match these to your Airbnb listing):
 
-### Findings at a glance 📣
-<!-- EDIT: 2–4 bullets, each a headline in plain language with a number if possible. -->
-- Headline 1 — what, where, how much
-- Headline 2 — change/trend/contrast
-- Headline 3 — implication for practice or policy
+- Fast Wi-Fi  
+- Dedicated workspace / desk area  
+- Full kitchen with modern appliances  
+- Coffee maker & kettle  
+- Washer & dryer  
+- Heating  
+- Linens and towels provided  
+- Basic cooking supplies (oil, salt, pepper, etc.)  
+- Free street or driveway parking  
+- Self check-in (keypad or lockbox)  
 
-### Visuals that tell the story 📣
-<!-- EDIT: Swap visuals; prioritize clarity. -->
-![Lead conclusion visual placeholder](assets/fire_hull.png)
-[Raw photo location: fire_hull.png](https://github.com/CU-ESIIL/Project_group_OASIS/blob/main/docs/assets/fire_hull.png)
-*Visual 1.* Swap in the primary graphic that clearly communicates your core takeaway.
-
-![Supporting panels for key insights](assets/hull_panels.png)
-[Raw photo location: hull_panels.png](https://github.com/CU-ESIIL/Project_group_OASIS/blob/main/docs/assets/hull_panels.png)
-*Visual 2.* Use a complementary panel, collage, or set of snapshots that reinforces supporting evidence.
-
-![Complementary result figure placeholder](assets/main_result.png)
-[Raw photo location: main_result.png](https://github.com/CU-ESIIL/Project_group_OASIS/blob/main/docs/assets/main_result.png)
-*Visual 3.* Highlight an additional visual that captures a secondary insight or next step.
-
-<iframe
-  title="Short explainer video (optional)"
-  width="100%" height="360"
-  src="https://www.youtube.com/embed/ASTGFZ0d6Ps"
-  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  allowfullscreen></iframe>
-
-### What’s next? 📣
-- Immediate follow-ups
-- What we would do with one more week/month
-- Who should see this next
+If you add or remove amenities in the Airbnb listing, update this list to match.
 
 ---
 
-## Featured links (image buttons)
-<!-- EDIT: Replace images/links; keep alt text meaningful and motion subtle. -->
-<table>
-<tr>
-<td align="center" width="33%">
-  <a href="assets/Seven%20ways%20to%20measure%20fire%20polygon%20velocity-4.pdf"><img src="assets/button_brief.gif" alt="Project brief PDF" width="240"><br><strong>Read the brief</strong></a>
-</td>
-<td align="center" width="33%">
-  <a href="https://github.com/CU-ESIIL/Project_group_OASIS/blob/main/code/fired_time_hull_panel.ipynb"><img src="assets/button_code.gif" alt="View shared code" width="240"><br><strong>View code</strong></a>
-</td>
-<td align="center" width="33%">
-  <a href="https://github.com/CU-ESIIL/Project_group_OASIS/blob/main/code/single_hull_demo.py"><img src="assets/button_data.gif" alt="Explore data" width="240"><br><strong>Explore data</strong></a>
-</td>
-</tr>
-</table>
+## Photos
+
+This site is built with MkDocs Material, which expects images to live under `docs/assets/`.
+
+You can add your own photos as follows:
+
+1. Put your images in `docs/assets/` (for example:  
+   `docs/assets/living-room.jpg`, `docs/assets/kitchen.jpg`, `docs/assets/bedroom.jpg`, `docs/assets/exterior.jpg`).
+2. Update the image references below so the filenames match what you upload.
+
+Example layout (you can adjust captions as you like):
+
+![Living room with plenty of natural light](assets/living-room.jpg){ width=100% }
+
+![Kitchen with modern appliances](assets/kitchen.jpg){ width=49% }
+![Cozy bedroom with comfortable bed](assets/bedroom.jpg){ width=49% }
+
+![Exterior view of the Sunny 3BD Retreat Near CU](assets/exterior.jpg){ width=100% }
+
+If you don’t have images yet, these placeholders will simply not render until the files exist.
 
 ---
 
-## Team
-| Name | Role | Contact | GitHub |
-|------|------|---------|--------|
-| Jane Doe | Lead | jane.doe@example.org | @janedoe |
-| John Smith | Analyst | john.smith@example.org | @jsmith |
+## Location
+
+**Boulder, Colorado – near CU Boulder campus and foothills trails**
+
+The home is in a Boulder neighborhood that makes it easy to get to:
+
+- CU Boulder campus  
+- Downtown Boulder restaurants and shops  
+- Nearby trailheads and open space  
+
+Exact address and arrival details are shared after booking through Airbnb.
+
+> If you’d like, you can embed a simple map here by pasting an iframe snippet from Google Maps.  
+> MkDocs will render raw HTML in Markdown, so a `<iframe>` embed is allowed.
 
 ---
 
+## House rules & good to know
 
+> Make sure these align with the rules on your Airbnb listing.
 
-## Storage
+- Check-in and check-out times follow the Airbnb listing.  
+- No parties or large events.  
+- No smoking inside the home.  
+- Pets only if approved in advance.  
+- Please respect neighbors and quiet hours.  
 
-Code
-Keep shared scripts, notebooks, and utilities in the [`code/`](https://github.com/CU-ESIIL/Project_group_OASIS/tree/main/code) directory. Document how to run them in a README or within the files so teammates and visitors can reproduce your workflow.
-
-Documentation
-Use the [`docs/`](https://github.com/CU-ESIIL/Project_group_OASIS/tree/main/docs) folder to publish project updates on this site. Longer internal notes can live in [`documentation/`](https://github.com/CU-ESIIL/Project_group_OASIS/tree/main/documentation); summarize key takeaways here so the public story stays current.
-
----
-
-## Cite & reuse
-If you use these materials, please cite:
-
-> Lastname, A., Lastname, B. (2025). *Project title*. DOI or URL.
-
-License: CC-BY-4.0 unless noted. See dataset licenses on the **[Data](data.md)** page.
+Full, up-to-date rules, cancellation policies, and any fees are always listed on the Airbnb page itself.
 
 ---
 
-<!-- EDIT HINTS
-- Upload images to docs/assets/ and reference as assets/filename.png
-- Keep images ~1200 px wide; avoid >5–8 MB per file.
-- Use short, active sentences; this is a scrolling “slide deck.”
-- Update this page at least once per day during the sprint.
--->
+## Booking & contact
+
+All reservations, cancellations, and messaging go through Airbnb.
+
+[:material-airbnb: Check availability & book on Airbnb](https://www.airbnb.com/rooms/1529214807731831639){ .md-button .md-button--primary target="_blank" }
+
+[:material-email: Message the host on Airbnb](https://www.airbnb.com/rooms/1529214807731831639){ .md-button target="_blank" }
+
+If any pricing or rules on this page ever conflict with Airbnb, the Airbnb listing is the source of truth.
+
+---
