@@ -65,18 +65,19 @@ This site is built with MkDocs Material, which expects images to live under `doc
 
 You can add your own photos as follows:
 
-1. Put your images in `docs/assets/` (for example:  
+1. Put your images in `docs/assets/` (for example:
    `docs/assets/living-room.jpg`, `docs/assets/kitchen.jpg`, `docs/assets/bedroom.jpg`, `docs/assets/exterior.jpg`).
+   The repository ships with lightweight SVG placeholders that you can swap out whenever you have your own JPEGs.
 2. Update the image references below so the filenames match what you upload.
 
 Example layout (you can adjust captions as you like):
 
-![Living room with plenty of natural light](assets/living-room.jpg){ width=100% }
+![Living room with plenty of natural light](assets/living-room.svg){ width=100% }
 
-![Kitchen with modern appliances](assets/kitchen.jpg){ width=49% }
-![Cozy bedroom with comfortable bed](assets/bedroom.jpg){ width=49% }
+![Kitchen with modern appliances](assets/kitchen.svg){ width=49% }
+![Cozy bedroom with comfortable bed](assets/bedroom.svg){ width=49% }
 
-![Exterior view of the Sunny 3BD Retreat Near CU](assets/exterior.jpg){ width=100% }
+![Exterior view of the Sunny 3BD Retreat Near CU](assets/exterior.svg){ width=100% }
 
 If you don’t have images yet, these placeholders will simply not render until the files exist.
 
