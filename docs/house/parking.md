@@ -5,7 +5,7 @@ Where to park and how to avoid tickets.
 ## Quick version
 - Use the driveway or spaces marked for guests; avoid blocking neighbors.
 - Street parking is limited—check signage for street sweeping or permits.
-- The [Parking Map](../assets/guest-docs/parking-map.pdf) shows approved spots.
+- The parking diagram in your Airbnb messages shows approved spots.
 - Unload quickly, then move cars to approved spaces.
 - No idling with windows open near the house at night.
 
@@ -21,8 +21,8 @@ Where to park and how to avoid tickets.
 - **Is overnight street parking allowed?** Usually, yes—just follow posted signs and avoid blocking mailboxes or hydrants.
 - **Where is bike storage?** Bikes can be locked to the porch railing; do not bring them inside to avoid scuffs.
 
-## Links / downloads
-- [Parking Map (PDF)](../assets/guest-docs/parking-map.pdf)
+## Related pages
 - [Check-in tips](check-in.md)
+- [House rules](house-rules.md)
 
 [← Back to Inside the Fox Den](index.md)

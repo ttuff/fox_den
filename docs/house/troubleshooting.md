@@ -22,8 +22,7 @@ Quick fixes for common issues.
 - **What if an appliance shows an error code?** Snap a photo and message us on Airbnb; include any sounds or flashing lights.
 - **Does the house have a plunger?** Yes—under the bathroom sink.
 
-## Links / downloads
-- [House Manual](../assets/guest-docs/house-manual.pdf)
+## Related pages
 - [Wi-Fi & TV tips](wifi-tv.md)
 - [Safety info](safety.md)
 

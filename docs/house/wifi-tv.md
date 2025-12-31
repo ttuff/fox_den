@@ -25,8 +25,8 @@ Connection details and streaming tips at a glance.
 - **TV says “No signal.”** Make sure the correct HDMI/input is selected; if using apps, press Home to exit HDMI mode.
 - **Is ethernet available?** Not at this time; Wi-Fi only.
 
-## Links / downloads
-- [Wi-Fi & TV instructions (PDF)](../assets/guest-docs/wifi-tv-instructions.pdf)
+## Related pages
 - [Troubleshooting tips](troubleshooting.md)
+- [Check-in steps](check-in.md)
 
 [← Back to Inside the Fox Den](index.md)

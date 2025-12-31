@@ -25,9 +25,8 @@ Stay-friendly guidelines to keep the visit smooth.
 - **Is there quiet time enforcement?** Yes—persistent noise complaints can lead to cancellation per Airbnb policy.
 - **Where do I put trash?** Use the kitchen bins; larger bags can go to the outdoor bins by the driveway. Collection is mid-week—if you’re here then, please roll bins to the curb the night before.
 
-## Links / downloads
-- [Welcome Book](../assets/guest-docs/welcome-book.pdf)
-- [House Manual](../assets/guest-docs/house-manual.pdf)
+## Related pages
 - [Checkout steps](checkout.md)
+- [Safety info](safety.md)
 
 [← Back to Inside the Fox Den](index.md)

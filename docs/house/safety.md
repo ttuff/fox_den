@@ -23,8 +23,8 @@ Safety basics and emergency pointers.
 - **What if an alarm sounds?** Evacuate, call 911, then contact us. If it’s a low-battery chirp, message us for a replacement.
 - **Is there a baby/child setup?** The home is not baby-proofed; keep breakables out of reach and supervise children closely.
 
-## Links / downloads
-- [House Manual](../assets/guest-docs/house-manual.pdf)
+## Related pages
 - [Troubleshooting](troubleshooting.md)
+- [House rules](house-rules.md)
 
 [← Back to Inside the Fox Den](index.md)
