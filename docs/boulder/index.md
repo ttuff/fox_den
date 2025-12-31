@@ -1,6 +1,10 @@
 # Around Boulder
 
-Quick, QR-friendly picks for exploring nearby.
+### Neighborhood Guide • QR-friendly
+
+Use this QR hub for quick transport tips and nearby food and activity picks.
+
+Tip: bookmark this page for offline access while traveling.
 
 ## Quick picks
 
@@ -19,3 +23,5 @@ Quick, QR-friendly picks for exploring nearby.
 - Plan transport early when events are in town.
 - Early starts make popular trails calmer.
 - Keep reusable bags handy for groceries.
+
+Public guide — sensitive access details are shared privately after booking.

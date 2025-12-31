@@ -1,6 +1,10 @@
 # Inside the Fox Den
 
-QR-friendly house guide with the essentials upfront.
+### House Guide • QR-friendly
+
+Use this QR hub for during-stay essentials like check-in, Wi-Fi, and checkout steps.
+
+Tip: bookmark this page for offline access while traveling.
 
 ## Most used
 
@@ -22,3 +26,5 @@ QR-friendly house guide with the essentials upfront.
 Start with Troubleshooting for common fixes, then check the House rules and Welcome Book for quick answers.
 
 Door codes and sensitive access details are not published on this public site.
+
+Public guide — sensitive access details are shared privately after booking.
