@@ -1,21 +1,24 @@
 # Inside the Fox Den
 
-QR-friendly house guide. Quick links and downloads for on-the-go reference.
+QR-friendly house guide with the essentials upfront.
 
-## Quick links
+## Most used
 
-- [Check-in](check-in.md)
-- [Wi-Fi & TV](wifi-tv.md)
-- [Parking](parking.md)
-- [House rules](house-rules.md)
-- [Checkout](checkout.md)
-- [Troubleshooting](troubleshooting.md)
-- [Safety](safety.md)
+[Check-in](check-in.md){ .md-button .md-button--primary }
+[Wi-Fi & TV](wifi-tv.md){ .md-button .md-button--primary }
+[Parking](parking.md){ .md-button .md-button--primary }
+[Checkout](checkout.md){ .md-button }
+[Troubleshooting](troubleshooting.md){ .md-button }
+[House rules](house-rules.md){ .md-button }
 
-## Documents
+## Documents (PDF)
 
-- [Welcome Book (PDF)](../assets/guest-docs/welcome-book.pdf)
-- [House Manual (PDF)](../assets/guest-docs/house-manual.pdf)
-- [Parking Map (PDF)](../assets/guest-docs/parking-map.pdf)
+[Welcome Book](../assets/guest-docs/welcome-book.pdf){ .md-button }
+[House Manual](../assets/guest-docs/house-manual.pdf){ .md-button }
+[Parking Map](../assets/guest-docs/parking-map.pdf){ .md-button }
+
+## Need help?
+
+Start with Troubleshooting for common fixes, then check the House rules and Welcome Book for quick answers.
 
 Door codes and sensitive access details are not published on this public site.
