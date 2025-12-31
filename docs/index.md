@@ -1,6 +1,8 @@
 # Sunny 3BD Retreat Near CU – Great Winter Rates
 
-> All bookings, messaging, and payments are handled securely through Airbnb.  
+### Listing & Overview (QR)
+
+> All bookings, messaging, and payments are handled securely through Airbnb.
 > This page is just an easy way to see details and photos in one place.
 
 [:material-airbnb: View listing on Airbnb](https://www.airbnb.com/rooms/1529214807731831639){ .md-button .md-button--primary target="_blank" }
