@@ -7,6 +7,15 @@
 
 ---
 
+## QR Pages
+
+A couple of QR-friendly pages guests can use on the go:
+
+- [Inside the Fox Den](house.md) – quick links to guest guides and checklists.
+- [Around Boulder](boulder.md) – mobile notes for getting around and exploring.
+
+---
+
 ## Overview
 
 This sunny three-bedroom home in Boulder is a comfortable base for trips to **CU Boulder**, downtown, and the nearby foothills. The layout works well for small groups, visiting family, and longer work trips.

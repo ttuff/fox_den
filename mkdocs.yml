@@ -12,7 +12,9 @@ copyright: 'Copyright &copy; 2024 University of Colorado Boulder'
 
 # Page tree
 nav:
-  - Home: index.md
+  - Listing (Home): index.md
+  - Inside the Fox Den: house.md
+  - Around Boulder: boulder.md
 
 not_in_nav: |
   data.md
