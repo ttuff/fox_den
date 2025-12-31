@@ -25,9 +25,9 @@ Fast pointers for arrival and getting settled.
 - **What if the lock code doesn’t work?** Confirm you’re using the code from Airbnb for today, then see [Troubleshooting](troubleshooting.md) for quick resets.
 - **Can friends visit?** Daytime visitors are fine within the reservation’s occupancy; overnights need to be on the booking per Airbnb rules.
 
-## Links / downloads
-- [Check-in guide (PDF)](../assets/guest-docs/check-in-guide.pdf)
-- [Welcome Book](../assets/guest-docs/welcome-book.pdf)
-- [Parking Map](../assets/guest-docs/parking-map.pdf)
+## Related pages
+- [Parking tips](parking.md)
+- [House rules](house-rules.md)
+- [Troubleshooting](troubleshooting.md)
 
 [← Back to Inside the Fox Den](index.md)

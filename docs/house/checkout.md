@@ -23,8 +23,8 @@ Simple steps for an easy departure.
 - **Do I need to strip beds?** Not required, but a quick strip is appreciated if you have time.
 - **What if I forgot something?** Message us with a description; we’ll look during turnover and coordinate shipping at cost.
 
-## Links / downloads
-- [Checkout checklist (PDF)](../assets/guest-docs/checkout-list.pdf)
+## Related pages
 - [House rules](house-rules.md)
+- [Troubleshooting](troubleshooting.md)
 
 [← Back to Inside the Fox Den](index.md)

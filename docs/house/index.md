@@ -15,11 +15,11 @@ Tip: bookmark this page for offline access while traveling.
 [Troubleshooting](troubleshooting.md){ .md-button }
 [House rules](house-rules.md){ .md-button }
 
-## Documents (PDF)
+## More details
 
-[Welcome Book](../assets/guest-docs/welcome-book.pdf){ .md-button }
-[House Manual](../assets/guest-docs/house-manual.pdf){ .md-button }
-[Parking Map](../assets/guest-docs/parking-map.pdf){ .md-button }
+[Safety info](safety.md){ .md-button }
+[House rules](house-rules.md){ .md-button }
+[Troubleshooting tips](troubleshooting.md){ .md-button }
 
 ## Need help?
 
