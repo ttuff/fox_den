@@ -1,34 +1,125 @@
-# Outdoors
+# Things to do – outdoors
 
-Trails, parks, and easy nature breaks nearby.
+One of Boulder’s greatest gifts is how quickly you can step from town into open space. Trails, creeks, and scenic viewpoints are woven right into daily life here, making it easy to get outside at any pace — from a gentle stroll to a full-day adventure.
 
-## Quick version
-- Chautauqua for Flatirons views; arrive early for parking or use transit.
-- Mount Sanitas for quick climbs close to downtown.
-- Boulder Creek Path for flat walks, biking, and playground stops.
-- Bring water, sunscreen, and layers—see (weather-altitude.md).
-- Check trail conditions after snow or heavy rain.
+## Signature hikes & walks
+These are some of Boulder’s most iconic and accessible outdoor experiences. Conditions can change quickly with weather and season, so always check trail status before heading out.
 
-## Close-in trail ideas
-- **Chautauqua Park:** Multiple loop options to the Flatirons; busy on weekends.
-- **Mount Sanitas:** Steep main route with a gentler valley trail descent.
-- **NCAR Mesa/Skunk Canyon:** Rolling terrain with great views and less crowding.
-- **Boulder Creek Path:** Paved/packed trail along the creek; connects to parks and downtown.
+### Chautauqua area (Flatirons)
+A classic Boulder destination with trails ranging from short walks to steep climbs.
+- **Chautauqua Trail** – Gentle access to the meadow and Flatirons views
+- **Bluebell–Baird Trail** – Moderate loop with big views
+- **Royal Arch Trail** – Steeper, more strenuous hike to a dramatic rock arch
 
-## Parks & play areas
-- Eben G. Fine Park and Scott Carpenter Park for picnics and playgrounds.
-- Valmont Bike Park for pump tracks and skills areas (helmets recommended).
-- Many neighborhood parks have shaded playgrounds; check city maps for the closest option.
+Best for: iconic scenery, morning hikes, visitors with limited time.  
+Note: Parking fills early; consider walking, biking, or arriving early.
 
-## Safety & etiquette
-- Hydrate early, especially at altitude; take breaks in summer heat.
-- Yield to uphill hikers; keep dogs leashed where required and pack out waste.
-- Weather changes quickly—carry a light rain layer and traction in winter.
-- Respect closures for wildlife or muddy trails to prevent damage.
+### Mount Sanitas
+A local favorite close to town.
+- Short but steep and rocky
+- Big payoff views over Boulder
+- Can be crowded during peak hours
 
-## More resources
-- City of Boulder trail status: [trail closures map](https://bouldercolorado.gov/services/trail-closures)
-- Transit/parking tips: see (getting-around.md)
-- Gear forgot something? See (groceries-essentials.md) for outdoor shops.
+Best for: a challenging workout with city views.  
+Caution: Very exposed in heat or storms.
+
+### Wonderland Lake & foothills trails
+Gentler options north of town.
+- Loop trails with mountain backdrops
+- Wildlife sightings are common
+- Great for walking, running, or sunset strolls
+
+Best for: families, casual outings, evening walks.
+
+### Boulder Creek Path
+The Boulder Creek Path is a paved multi-use trail that runs through town along the creek.
+- Excellent for walking, biking, jogging, and casual rides
+- Connects downtown, neighborhoods, parks, and trailheads
+- Flat and accessible, with plenty of places to stop and rest
+
+Seasonal notes: In spring and early summer, snowmelt makes the creek fast and cold. In summer, creekside areas are popular — water safety is important.
+
+### Scenic viewpoints & easy wins
+If you want great views without a long hike:
+- Flagstaff Mountain – Scenic drive and overlooks above town
+- Lost Gulch Overlook – One of the best sunset spots near Boulder
+- Boulder Valley overlooks – Short walks and big open views
+
+Tip: Weather can be dramatically different at higher elevations — bring layers.
+
+## Climbing (very Boulder)
+Boulder is internationally known for rock climbing, with options ranging from beginner-friendly to elite-level.
+- **Flatirons** – Classic slab and trad climbing
+- **Eldorado Canyon** – World-class sandstone routes (trad-heavy)
+
+Good to know:
+- Many areas require permits or have seasonal closures
+- Afternoon thunderstorms are common in summer
+- Local climbing gyms are plentiful if conditions aren’t ideal
+
+## Running & trail running
+Boulder is a hub for runners and trail runners.
+
+Popular routes:
+- **Boulder Creek Path** – Flat, scenic, great for easy runs
+- **Mount Sanitas loops** – Steep, short, and intense
+- **Mesa Trail** – Rolling terrain with long-distance options
+
+Local culture note: Trail etiquette matters — uphill runners usually have right of way, and staying on trail protects fragile terrain.
+
+## Cycling (road, gravel & casual riding)
+Cycling is part of daily life in Boulder.
+- Extensive bike lanes and multi-use paths
+- Classic road climbs into the foothills
+- Gravel routes north and east of town
+- Casual riders: Boulder Creek Path and city bike lanes are excellent
+- Serious riders: Expect elevation, wind, and fast-changing weather
+- Bike shops and rentals are easy to find around town.
+
+## Skiing & winter sports
+In winter, Boulder serves as a convenient base for Front Range skiing.
+- **Eldora Mountain Resort** – Closest downhill skiing (~40 minutes)
+- Nordic skiing and snowshoeing nearby
+- Trails often remain open year-round with traction
+
+Winter cautions:
+- Roads can be icy or snowy
+- Weather can change quickly in the mountains
+
+## Triathlon & endurance training
+Boulder has a strong triathlon and endurance sports community.
+- **Swimming:** public pools and seasonal open-water options nearby
+- **Cycling:** road and gravel routes start close to town
+- **Running:** extensive trail and path networks
+
+Altitude makes training more demanding — many athletes come here specifically for that reason.
+
+## Seasonal trail conditions (very important)
+Boulder’s trails change character with the seasons:
+
+- **Spring:** Mud season is real — many trails are soft. Staying off muddy trails prevents long-term damage. South-facing trails dry first.
+- **Summer:** Hot sun, strong UV, afternoon thunderstorms. Start early; aim to be off exposed trails by early afternoon. Carry more water than you think you’ll need.
+- **Fall:** Cooler temps and clear days. Shorter daylight hours — plan turnaround times.
+- **Winter:** Many trails stay open but can be icy. Microspikes are often helpful. North-facing trails hold snow longer.
+
+## Altitude, hydration & sun
+Boulder sits at about 5,400 feet above sea level, which can surprise visitors.
+
+What to know:
+- You may feel winded sooner
+- Dehydration happens faster
+- Alcohol hits harder
+- Sun exposure is stronger year-round
+
+Tips:
+- Drink water regularly
+- Pace yourself and take breaks
+- Wear sunscreen and a hat
+- Eat regularly and don’t skip recovery
+
+If you feel dizzy, lightheaded, or unusually fatigued, slow down and rest.
+
+## A local reminder
+Boulder’s open spaces are shared by hikers, runners, cyclists, climbers, wildlife, and neighbors. Staying on trails, respecting closures, and keeping noise low helps preserve these places for everyone. If you’d like suggestions tailored to the season, your experience level, or how much time you have, feel free to ask — we’re happy to help point you in the right direction.
 
 [← Back to Around Boulder](index.md)

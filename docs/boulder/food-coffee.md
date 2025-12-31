@@ -1,35 +1,87 @@
-# Food & coffee
+# Food, downtown & culture
 
-Quick picks for meals, caffeine, and treats.
+Boulder’s food and culture scene is compact, walkable, and shaped by a mix of university life, outdoor culture, and long-standing local businesses. You don’t need to travel far to eat well or get a feel for the town.
 
-## Quick version
-- Pearl Street and West End = most restaurants and patios.
-- Great coffee near downtown and on university hill.
-- Reservations help on weekends; patios fill fast in good weather.
-- Many spots offer gluten-free/vegan options—ask when ordering.
-- Delivery available via the usual apps; expect higher demand on stormy days.
+## Pearl Street & downtown Boulder
+Most visitors spend time around the Pearl Street Mall, a pedestrian area lined with shops, restaurants, street performers, and cafés.
 
-## Coffee & cafes
-- Downtown staples with Wi‑Fi and outdoor seating; local roasters are easy to find.
-- Cozy study/remote-work options around Pearl and on the Hill.
-- For an early hike, grab coffee on the way to (outdoors.md) trailheads.
+What to expect:
+- A few lively blocks that are easy to explore on foot
+- Outdoor seating and people-watching
+- A mix of local businesses and familiar favorites
+- Lively during the day, calmer in the evenings
 
-## Breakfast & brunch
-- Mix of sit-down brunches, bakery counters, and bagel shops across downtown.
-- Arrive early on weekends; lines form by 9–10am at popular spots.
+It’s a great place to wander without a plan and see where you end up.
 
-## Lunch & dinner
-- Pearl Street for patios and people-watching; plenty of small plates and burger spots.
-- North Boulder adds relaxed breweries and taco shops.
-- University Hill skews casual with pizza, burritos, and ramen near campus.
+## Coffee & casual mornings
+Boulder takes coffee seriously, but most spots keep things relaxed and welcoming.
+- **Boxcar Coffee Roasters** – Excellent coffee, local favorite
+- **Ozo Coffee** – Multiple locations, reliable and easy
+- **Trident Café** – Coffee, breakfast, books, and a very Boulder vibe
 
-## Drinks & dessert
-- Craft breweries and cideries throughout town; many have food trucks.
-- Cocktails clustered downtown and in Boulder Junction.
-- Ice cream and gelato shops near Pearl Street—great for an evening stroll.
+Good for easing into the day, light work, or a post-walk stop.
 
-## Tips
-- Many places are counter-service; keep an eye out for QR ordering on patios.
-- Parking garages near Pearl give first-hour discounts—see (getting-around.md) for options.
+## Casual dining & easy meals
+Great options after a hike or a busy day.
+- **The Kitchen Next Door** – Elevated comfort food, approachable
+- **Illegal Pete’s** – A Boulder classic for burritos and bowls
+- **Mountain Sun Pub** – Pub food, local beer, relaxed atmosphere
+
+Good for families, informal dinners, and quick meals.
+
+## Nicer dining & special occasions
+If you’re celebrating or looking for something more refined:
+- **Frasca Food and Wine** – Acclaimed Italian dining; reservations recommended
+- **Black Cat** – Seasonal, farm-driven menu
+- **River and Woods** – Creative comfort food in a cozy setting
+
+Good for date nights, graduation dinners, and special evenings.
+
+## Breweries & drinks
+Boulder has a long brewing tradition and plenty of relaxed places to have a drink.
+- **Avery Brewing Company** – Well-known, spacious, food available
+- **Upslope Brewing Company** – Casual, classic Boulder feel
+- **Boulder Beer Company** – One of Boulder’s originals
+
+Most breweries are informal and family-friendly earlier in the day.
+
+## Boulder Farmers Market (seasonal)
+The Boulder Farmers Market is a local institution.
+- Typically runs spring through fall
+- Fresh produce, prepared foods, and local vendors
+- Lively atmosphere and a great way to experience Boulder culture
+
+Days and hours vary by season, so check current schedules.
+
+## Special events to know about
+Boulder hosts several large events each year that can significantly change the feel of town.
+
+### Sundance Film Festival (based in Boulder)
+Beginning this coming year, the Sundance Film Festival will be based in Boulder, bringing screenings, industry events, and visitors directly into town.
+
+During Sundance (typically January), expect:
+- A large influx of visitors
+- Very busy restaurants and cafés
+- Limited parking downtown
+- A lively evening atmosphere
+
+It’s an exciting time to visit, but planning ahead for meals and transportation is strongly recommended.
+
+### Concerts & major events at Folsom Field
+Large concerts and events at Folsom Field can bring tens of thousands of visitors to town for a single night.
+
+On concert days:
+- Traffic near campus increases significantly
+- Parking enforcement is stricter
+- Rideshare demand and surge pricing are common
+- Restaurants and bars fill up quickly
+- The area stays lively later than usual
+
+If you’re attending a concert, allow extra time and consider walking, biking, or rideshare. If you’re not attending, expect a much busier-than-normal evening near campus and downtown.
+
+## A local tip
+Boulder restaurants fill up quickly during Sundance, football weekends, graduation, and summer evenings. Reservations help for nicer dining, and going a bit earlier or later than peak hours can make things easier.
+
+If you’d like recommendations based on dietary needs, budget, or proximity, feel free to ask — we’re happy to help.
 
 [← Back to Around Boulder](index.md)
