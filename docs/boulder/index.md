@@ -12,8 +12,11 @@ Tip: bookmark this page for offline access while traveling.
 [Food & coffee](food-coffee.md){ .md-button .md-button--primary }
 [Groceries & essentials](groceries-essentials.md){ .md-button }
 [Outdoors](outdoors.md){ .md-button }
+[Indoors](indoors.md){ .md-button }
 [Weather & altitude](weather-altitude.md){ .md-button }
 [Families](families.md){ .md-button }
+[Year at a glance](year-at-a-glance.md){ .md-button }
+[Day trips](day-trips.md){ .md-button }
 
 ## One-screen essentials
 

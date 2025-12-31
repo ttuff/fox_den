@@ -1,29 +1,48 @@
-# Wi-Fi & TV
+# Quick start: Wi‑Fi, TV & house basics
 
-Connection details and streaming tips at a glance.
+This page covers the basics so you can settle in quickly. If anything isn’t clear or doesn’t work as expected, please reach out — we’re happy to help.
 
-## Quick version
-- Network name and password are in your Airbnb messages. [Provided in Airbnb message after booking]
-- Best signal near the living room router; avoid unplugging it.
-- Smart TV: use your streaming logins; sign out before checkout.
-- HDMI port available for laptops/game consoles.
-- If Wi-Fi drops, reboot router + modem (see [Troubleshooting](troubleshooting.md)).
-- Wired work? Use your own USB-C/HDMI adapter; desk area is by the window.
+## Wi‑Fi
+- **Network:** _____________________
+- **Password:** _____________________
+- Wi‑Fi works throughout the house and is suitable for streaming and video calls.
+- If the internet goes down, we typically experience the same outage next door and will be aware quickly.
 
-## Details
-- **Wi-Fi:** Connect to the network info shared in Airbnb. Router sits in the living area—keep it clear of objects for best signal.
-- **Speed tips:** For video calls, sit in the living room or the front bedroom for strongest coverage.
-- **TV setup:**
-  - Use the Home button to pick your app (Netflix, Hulu, etc.).
-  - Guest Mode is preferred; otherwise sign out of all apps before you leave.
-  - Want cable-style channels? Use the YouTube TV app already installed (log into your own account).
-- **Casting:** The TV supports AirPlay/Chromecast from the same Wi-Fi network. If casting lags, restart the TV and router.
-- **HDMI:** HDMI port is open; unplug any existing device and replug when done.
+## TV & streaming
+- The TV uses Roku for streaming.
+- Turn on the TV → Roku home screen.
+- Sign in using your own streaming accounts (Netflix, Hulu, Prime, etc.).
+- No cable TV is provided.
+- For your privacy, guest accounts are automatically logged out after checkout.
 
-## FAQs
-- **Why can’t I find the network?** Power-cycle the router (unplug for 30 seconds) and confirm you’re using the exact network name from Airbnb messages.
-- **TV says “No signal.”** Make sure the correct HDMI/input is selected; if using apps, press Home to exit HDMI mode.
-- **Is ethernet available?** Not at this time; Wi-Fi only.
+## Thermostat & temperature
+- The house uses an ecobee smart thermostat.
+- Tap the screen to wake it up; use the up/down arrows to adjust the temperature.
+- You’re welcome to adjust it for comfort. Temperature ranges are set within reasonable limits; if something feels off, just let us know.
+- Boulder note: Wind and rapid weather changes can affect indoor temperature — the system may take a bit of time to respond.
+
+## Hot water
+- Hot water is available throughout the house; normal showers and household use are no problem.
+- If multiple long showers are taken back-to-back, recovery may take some time.
+- If you ever notice a loss of hot water, please message us.
+
+## Washer & dryer
+- Washer and dryer are located [location].
+- Detergent is provided [location].
+- Please clean the lint trap before using the dryer.
+- If you’re unsure about settings, a normal cycle works well for most loads.
+
+## Lighting & switches
+- Some switches control outlets or lamps rather than overhead lights.
+- A few switches may not appear to do anything — this is normal in older homes.
+- Outdoor and hallway lighting may be on timers or sensors.
+- If you can’t find a light you expect, just ask.
+
+## Doors & locks
+- Entry uses a keypad with a unique code for your stay.
+- Please make sure doors are fully closed before leaving.
+
+A quick reminder: this is a lived-in home in a residential neighborhood. If something feels confusing, unusual, or not quite right, please message us rather than guessing — we’d much rather help than have you worry.
 
 ## Related pages
 - [Troubleshooting tips](troubleshooting.md)

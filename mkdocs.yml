@@ -17,6 +17,7 @@ nav:
       - Overview: house/index.md
       - Check-in: house/check-in.md
       - Wi-Fi & TV: house/wifi-tv.md
+      - Kitchen & waste: house/kitchen.md
       - Parking: house/parking.md
       - House rules: house/house-rules.md
       - Checkout: house/checkout.md
@@ -28,8 +29,11 @@ nav:
       - Food & coffee: boulder/food-coffee.md
       - Groceries & essentials: boulder/groceries-essentials.md
       - Outdoors: boulder/outdoors.md
+      - Indoors: boulder/indoors.md
       - Weather & altitude: boulder/weather-altitude.md
       - Families: boulder/families.md
+      - Year at a glance: boulder/year-at-a-glance.md
+      - Day trips: boulder/day-trips.md
 
 not_in_nav: |
   data.md

@@ -12,6 +12,7 @@ Tip: bookmark this page for offline access while traveling.
 [Wi-Fi & TV](wifi-tv.md){ .md-button .md-button--primary }
 [Parking](parking.md){ .md-button .md-button--primary }
 [Checkout](checkout.md){ .md-button }
+[Kitchen & waste](kitchen.md){ .md-button }
 [Troubleshooting](troubleshooting.md){ .md-button }
 [House rules](house-rules.md){ .md-button }
 
