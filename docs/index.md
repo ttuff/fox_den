@@ -11,8 +11,8 @@
 
 A couple of QR-friendly pages guests can use on the go:
 
-- [Inside the Fox Den](house.md) – quick links to guest guides and checklists.
-- [Around Boulder](boulder.md) – mobile notes for getting around and exploring.
+- [Inside the Fox Den](house/) – quick links to guest guides and checklists.
+- [Around Boulder](boulder/) – mobile notes for getting around and exploring.
 
 ---
 
