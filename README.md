@@ -1,5 +1,7 @@
 # Sunny 3BD Retreat Near CU – GitHub Pages Site
 
+![Fox Den logo](docs/assets/fox_den_logo.png)
+
 This repo hosts a simple, one-page website for the Airbnb listing:
 
 - https://www.airbnb.com/rooms/1529214807731831639

@@ -54,8 +54,8 @@ theme:
   font:
     text: 'Open Sans'
     code: 'Roboto Mono'
-  logo: 'assets/esiil_content/esiil_oasis_logo.png'
-  favicon: 'assets/esiil_content/favicon.ico'
+  logo: 'assets/fox_den_logo.png'
+  favicon: 'assets/fox_den_logo.png'
   custom_dir: docs/overrides
   # setting features for the navigation tab
   features:
