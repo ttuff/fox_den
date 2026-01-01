@@ -8,6 +8,7 @@
     name="description"
     content="Sunny 3 bedroom retreat near CU Boulder with great winter rates, close to campus, trails, and downtown."
   />
+  <link rel="icon" type="image/png" href="docs/assets/fox_den_logo.png" />
 
   <!-- Open Graph for link previews -->
   <meta property="og:title" content="Sunny 3BD Retreat Near CU – Great Winter Rates" />
@@ -89,11 +90,47 @@
     }
 
     .brand-logo {
-      width: 28px;
-      height: 28px;
-      border-radius: 999px;
-      background: radial-gradient(circle at 30% 20%, #ffe4da, #e4572e);
-      box-shadow: 0 0 0 3px rgba(255, 255, 255, 0.8);
+      width: 32px;
+      height: 32px;
+      border-radius: 10px;
+      border: 1px solid rgba(229, 231, 235, 0.9);
+      box-shadow: 0 0 0 3px rgba(255, 255, 255, 0.85);
+      background: #fff;
+      object-fit: contain;
+    }
+
+    .hero-brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.6rem;
+      padding: 0.55rem 0.8rem;
+      border-radius: 14px;
+      background: #fff9f6;
+      color: var(--text);
+      border: 1px solid rgba(228, 87, 46, 0.12);
+      box-shadow: 0 10px 22px rgba(228, 87, 46, 0.12);
+      margin-bottom: 0.35rem;
+    }
+
+    .hero-brand-logo {
+      width: 40px;
+      height: 40px;
+      border-radius: 12px;
+      border: 1px solid rgba(229, 231, 235, 0.9);
+      background: #fff;
+      object-fit: contain;
+    }
+
+    .hero-brand strong {
+      display: block;
+      font-size: 0.95rem;
+      letter-spacing: 0.02em;
+    }
+
+    .hero-brand span {
+      display: block;
+      color: var(--muted);
+      font-size: 0.85rem;
     }
 
     .nav-links {
@@ -521,7 +558,7 @@
     <header>
       <div class="nav">
         <div class="brand">
-          <div class="brand-logo" aria-hidden="true"></div>
+          <img class="brand-logo" src="docs/assets/fox_den_logo.png" alt="Fox Den logo" />
           <span>Sunny 3BD Retreat Near CU</span>
         </div>
 
@@ -561,6 +598,13 @@
           </div>
           <div class="hero-body">
             <div>
+              <div class="hero-brand">
+                <img class="hero-brand-logo" src="docs/assets/fox_den_logo.png" alt="Fox Den logo" />
+                <div>
+                  <strong>The Fox Den</strong>
+                  <span>Boulder stay near campus &amp; trails</span>
+                </div>
+              </div>
               <h1 class="hero-title">Sunny 3BD Retreat Near CU – Great Winter Rates</h1>
               <p class="hero-subtitle">
                 Bright, comfortable 3 bedroom home in Boulder, close to CU campus, trails, and downtown.
