@@ -103,3 +103,4 @@ plugins:
 markdown_extensions:
   - toc:
       toc_depth: 2
+  - attr_list
