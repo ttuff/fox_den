@@ -1,4 +1,4 @@
-# Sunny 3BD Retreat Near CU – GitHub Pages Site
+# Fox Den Boulder Welcome Pamphlet
 
 ![Fox Den logo](docs/assets/fox_den_logo.png)
 
