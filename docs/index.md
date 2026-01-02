@@ -105,5 +105,7 @@ We want you to feel completely comfortable about your stay here. This home is a 
 
 Some of the guidelines you’ll see in this pamphlet come from Airbnb, some come from the City of Boulder, and others reflect how we care for this home and the surrounding neighborhood. We’ve done our best to keep everything accurate and up to date so you can relax knowing your stay is fully compliant.
 
-[Inside the Fox Den →](house/index.md){ .md-button .md-button--primary }
-[Around Boulder →](boulder/index.md){ .md-button }
+<div class="cta-grid">
+  <a class="cta" href="house/index.md">Inside the Fox Den →</a>
+  <a class="cta" href="boulder/index.md">Around Boulder →</a>
+</div>
