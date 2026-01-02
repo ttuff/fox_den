@@ -1,9 +1,6 @@
 # Around Boulder
 
-### Neighborhood Guide • QR-friendly
-
-Use this QR hub for quick transport tips and nearby food and activity picks.
-
+### Neighborhood Guide 
 Tip: bookmark this page for offline access while traveling.
 
 ## Quick picks
