@@ -15,38 +15,38 @@ It’s a great place to wander without a plan and see where you end up.
 
 ## Coffee & casual mornings
 Boulder takes coffee seriously, but most spots keep things relaxed and welcoming.
-- **Boxcar Coffee Roasters** – Excellent coffee, local favorite
-- **Ozo Coffee** – Multiple locations, reliable and easy
-- **Trident Café** – Coffee, breakfast, books, and a very Boulder vibe
+- **[Boxcar Coffee Roasters](https://boxcarcoffeeroasters.com)** – Excellent coffee, local favorite
+- **[Ozo Coffee](https://ozocoffee.com)** – Multiple locations, reliable and easy
+- **[Trident Café](https://tridentcafe.com)** – Coffee, breakfast, books, and a very Boulder vibe
 
 Good for easing into the day, light work, or a post-walk stop.
 
 ## Casual dining & easy meals
 Great options after a hike or a busy day.
-- **The Kitchen Next Door** – Elevated comfort food, approachable
-- **Illegal Pete’s** – A Boulder classic for burritos and bowls
-- **Mountain Sun Pub** – Pub food, local beer, relaxed atmosphere
+- **[The Kitchen Next Door](https://thekitchennextdoor.com)** – Elevated comfort food, approachable
+- **[Illegal Pete’s](https://illegalpetes.com)** – A Boulder classic for burritos and bowls
+- **[Mountain Sun Pub](https://mountainsunpub.com)** – Pub food, local beer, relaxed atmosphere
 
 Good for families, informal dinners, and quick meals.
 
 ## Nicer dining & special occasions
 If you’re celebrating or looking for something more refined:
-- **Frasca Food and Wine** – Acclaimed Italian dining; reservations recommended
-- **Black Cat** – Seasonal, farm-driven menu
-- **River and Woods** – Creative comfort food in a cozy setting
+- **[Frasca Food and Wine](https://frascafoodandwine.com)** – Acclaimed Italian dining; reservations recommended
+- **[Black Cat](https://www.blackcatboulder.com)** – Seasonal, farm-driven menu
+- **[River and Woods](https://riverandwoodsboulder.com)** – Creative comfort food in a cozy setting
 
 Good for date nights, graduation dinners, and special evenings.
 
 ## Breweries & drinks
 Boulder has a long brewing tradition and plenty of relaxed places to have a drink.
-- **Avery Brewing Company** – Well-known, spacious, food available
-- **Upslope Brewing Company** – Casual, classic Boulder feel
-- **Boulder Beer Company** – One of Boulder’s originals
+- **[Avery Brewing Company](https://www.averybrewing.com)** – Well-known, spacious, food available
+- **[Upslope Brewing Company](https://www.upslopebrewing.com)** – Casual, classic Boulder feel
+- **[Boulder Beer Company](https://boulderbeer.com)** – One of Boulder’s originals
 
 Most breweries are informal and family-friendly earlier in the day.
 
 ## Boulder Farmers Market (seasonal)
-The Boulder Farmers Market is a local institution.
+- The [Boulder Farmers Market](https://bcfm.org) is a local institution.
 - Typically runs spring through fall
 - Fresh produce, prepared foods, and local vendors
 - Lively atmosphere and a great way to experience Boulder culture

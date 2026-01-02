@@ -3,7 +3,7 @@
 Kid-friendly picks and easy planning tips.
 
 ## Quick version
-- Boulder Creek Path and city parks offer easy walks and playgrounds.
+- [Boulder Creek Path](https://bouldercolorado.gov/services/boulder-creek-path) and city parks offer easy walks and playgrounds.
 - Valmont Bike Park and Scott Carpenter Park are top hits for active kids.
 - Many restaurants around Pearl Street are casual and stroller-friendly.
 - Bring layers and sun protection—weather swings fast (see weather-altitude.md).
@@ -23,7 +23,7 @@ Kid-friendly picks and easy planning tips.
 ## Rainy or cold-day ideas
 - Museums and indoor play spaces near downtown and campus.
 - Public libraries host story times and have great kids’ sections.
-- Short scenic drives toward Nederland or Estes Park if roads are clear.
+- Short scenic drives toward [Nederland](https://nederlandco.org) or Estes Park if roads are clear.
 
 ## Gear & logistics
 - Strollers work well downtown; trails near (outdoors.md) range from paved to rocky—check surface before bringing wheels.
