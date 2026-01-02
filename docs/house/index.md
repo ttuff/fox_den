@@ -5,11 +5,17 @@ Tip: bookmark this page for offline access while traveling.
 
 <div class="cta-grid">
 [Check-in](check-in.md){ .cta }
+
 [Wi-Fi & TV](wifi-tv.md){ .cta }
+
 [Parking](parking.md){ .cta }
+
 [Checkout](checkout.md){ .cta }
+
 [Kitchen & waste](kitchen.md){ .cta }
+
 [Troubleshooting](troubleshooting.md){ .cta }
+
 [House rules](house-rules.md){ .cta }
 </div>
 
@@ -17,7 +23,9 @@ Tip: bookmark this page for offline access while traveling.
 
 <div class="cta-grid cta-grid--small">
 [Safety info](safety.md){ .cta .cta--outline }
+
 [House rules](house-rules.md){ .cta .cta--outline }
+
 [Troubleshooting tips](troubleshooting.md){ .cta .cta--outline }
 </div>
 
