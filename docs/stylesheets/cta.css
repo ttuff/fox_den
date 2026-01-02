@@ -3,11 +3,16 @@
   grid-template-columns: 1fr;
   gap: 14px;
   padding-left: 0;
+  margin-left: 0;
   margin: 0.75rem 0 1.5rem;
   list-style: none;
 }
 
-.cta-grid > li { margin: 0; }
+.cta-grid > li {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
 
 @media (min-width: 600px) {
   .cta-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
