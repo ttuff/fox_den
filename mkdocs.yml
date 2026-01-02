@@ -4,9 +4,7 @@ site_author: Ty Tuff
 site_url: "https://OWNER.github.io/REPO/"
 
 # Repository
-repo_name: fox_den
-repo_url: https://github.com/ttuff/fox_den/
-edit_uri: edit/main/docs/
+# repo information intentionally omitted to remove GitHub links from the site header and mobile menu
 # Copyright
 copyright: 'Copyright &copy; 2024 University of Colorado Boulder'
 
