@@ -7,23 +7,23 @@ These are some of Boulder’s most iconic and accessible outdoor experiences. Co
 
 ### Chautauqua area (Flatirons)
 A classic Boulder destination with trails ranging from short walks to steep climbs.
-- **Chautauqua Trail** – Gentle access to the meadow and Flatirons views
+- **[Chautauqua Trail](https://www.chautauqua.com/hiking)** – Gentle access to the meadow and Flatirons views
 - **Bluebell–Baird Trail** – Moderate loop with big views
 - **Royal Arch Trail** – Steeper, more strenuous hike to a dramatic rock arch
 
 Best for: iconic scenery, morning hikes, visitors with limited time.  
 Note: Parking fills early; consider walking, biking, or arriving early.
 
-### Mount Sanitas
+### [Mount Sanitas](https://bouldercolorado.gov/services/mount-sanitas)
 A local favorite close to town.
 - Short but steep and rocky
 - Big payoff views over Boulder
 - Can be crowded during peak hours
 
-Best for: a challenging workout with city views.  
+Best for: a challenging workout with city views.
 Caution: Very exposed in heat or storms.
 
-### Wonderland Lake & foothills trails
+### [Wonderland Lake](https://bouldercolorado.gov/services/wonderland-lake) & foothills trails
 Gentler options north of town.
 - Loop trails with mountain backdrops
 - Wildlife sightings are common
@@ -31,7 +31,7 @@ Gentler options north of town.
 
 Best for: families, casual outings, evening walks.
 
-### Boulder Creek Path
+### [Boulder Creek Path](https://bouldercolorado.gov/services/boulder-creek-path)
 The Boulder Creek Path is a paved multi-use trail that runs through town along the creek.
 - Excellent for walking, biking, jogging, and casual rides
 - Connects downtown, neighborhoods, parks, and trailheads
@@ -41,8 +41,8 @@ Seasonal notes: In spring and early summer, snowmelt makes the creek fast and co
 
 ### Scenic viewpoints & easy wins
 If you want great views without a long hike:
-- Flagstaff Mountain – Scenic drive and overlooks above town
-- Lost Gulch Overlook – One of the best sunset spots near Boulder
+- [Flagstaff Mountain](https://bouldercolorado.gov/services/flagstaff-mountain) – Scenic drive and overlooks above town
+- [Lost Gulch Overlook](https://bouldercolorado.gov/services/lost-gulch-overlook) – One of the best sunset spots near Boulder
 - Boulder Valley overlooks – Short walks and big open views
 
 Tip: Weather can be dramatically different at higher elevations — bring layers.
@@ -50,7 +50,7 @@ Tip: Weather can be dramatically different at higher elevations — bring layers
 ## Climbing (very Boulder)
 Boulder is internationally known for rock climbing, with options ranging from beginner-friendly to elite-level.
 - **Flatirons** – Classic slab and trad climbing
-- **Eldorado Canyon** – World-class sandstone routes (trad-heavy)
+- **[Eldorado Canyon](https://cpw.state.co.us/placestogo/parks/EldoradoCanyon)** – World-class sandstone routes (trad-heavy)
 
 Good to know:
 - Many areas require permits or have seasonal closures
@@ -78,7 +78,7 @@ Cycling is part of daily life in Boulder.
 
 ## Skiing & winter sports
 In winter, Boulder serves as a convenient base for Front Range skiing.
-- **Eldora Mountain Resort** – Closest downhill skiing (~40 minutes)
+- **[Eldora Mountain Resort](https://www.eldora.com)** – Closest downhill skiing (~40 minutes)
 - Nordic skiing and snowshoeing nearby
 - Trails often remain open year-round with traction
 
