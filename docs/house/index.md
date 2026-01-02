@@ -1,9 +1,4 @@
-# Inside the Fox Den
-
-### House Guide • QR-friendly
-
-Use this QR hub for during-stay essentials like check-in, Wi-Fi, and checkout steps.
-
+# Inside the Fox Den Boulder
 Tip: bookmark this page for offline access while traveling.
 
 ## Most used
