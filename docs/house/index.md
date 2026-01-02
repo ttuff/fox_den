@@ -3,19 +3,23 @@ Tip: bookmark this page for offline access while traveling.
 
 ## Most used
 
-[Check-in](check-in.md){ .md-button .md-button--primary }
-[Wi-Fi & TV](wifi-tv.md){ .md-button .md-button--primary }
-[Parking](parking.md){ .md-button .md-button--primary }
-[Checkout](checkout.md){ .md-button }
-[Kitchen & waste](kitchen.md){ .md-button }
-[Troubleshooting](troubleshooting.md){ .md-button }
-[House rules](house-rules.md){ .md-button }
+<div class="cta-grid">
+  <a class="cta" href="../house/check-in/">Check-in</a>
+  <a class="cta" href="../house/wifi-tv/">Wi-Fi & TV</a>
+  <a class="cta" href="../house/parking/">Parking</a>
+  <a class="cta" href="../house/checkout/">Checkout</a>
+  <a class="cta" href="../house/kitchen-waste/">Kitchen & waste</a>
+  <a class="cta" href="../house/troubleshooting/">Troubleshooting</a>
+  <a class="cta" href="../house/house-rules/">House rules</a>
+</div>
 
 ## More details
 
-[Safety info](safety.md){ .md-button }
-[House rules](house-rules.md){ .md-button }
-[Troubleshooting tips](troubleshooting.md){ .md-button }
+<div class="cta-grid cta-grid--small">
+  <a class="cta cta--outline" href="../house/safety/">Safety info</a>
+  <a class="cta cta--outline" href="../house/house-rules/">House rules</a>
+  <a class="cta cta--outline" href="../house/troubleshooting/">Troubleshooting tips</a>
+</div>
 
 ## Need help?
 
