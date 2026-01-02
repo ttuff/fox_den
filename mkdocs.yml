@@ -10,7 +10,7 @@ copyright: 'Copyright &copy; 2024 University of Colorado Boulder'
 
 # Page tree
 nav:
-  - Listing: index.md
+  - Welcome: index.md
   - Inside the Fox Den:
       - Overview: house/index.md
       - Check-in: house/check-in.md
