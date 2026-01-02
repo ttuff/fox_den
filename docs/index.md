@@ -1,7 +1,8 @@
 # Fox Den Boulder · Welcome Pamphlet
 
 **Welcome to the Fox Den**  
-Boulder, Colorado  
+**Boulder, Colorado**  
+
 Fox Den Boulder  
 120 South 31st Street  
 Boulder, CO 80305
