@@ -5,16 +5,16 @@ Mobile-friendly guide for your stay.
 ## Quick links
 
 <div class="cta-grid">
-  <a class="cta" href="house/check-in.md">Check-in</a>
-  <a class="cta" href="house/wifi-tv.md">Wi-Fi & TV</a>
-  <a class="cta" href="house/parking.md">Parking</a>
-  <a class="cta" href="house/house-rules.md">House rules</a>
-  <a class="cta" href="house/checkout.md">Checkout</a>
+  [Check-in](house/check-in.md){ .cta }
+  [Wi-Fi & TV](house/wifi-tv.md){ .cta }
+  [Parking](house/parking.md){ .cta }
+  [House rules](house/house-rules.md){ .cta }
+  [Checkout](house/checkout.md){ .cta }
 </div>
 
 <div class="cta-grid cta-grid--small">
-  <a class="cta cta--outline" href="house/troubleshooting.md">Troubleshooting</a>
-  <a class="cta cta--outline" href="house/safety.md">Safety</a>
+  [Troubleshooting](house/troubleshooting.md){ .cta .cta--outline }
+  [Safety](house/safety.md){ .cta .cta--outline }
 </div>
 
 - **Check-in:** Simple arrival steps and timing.

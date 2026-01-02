@@ -4,21 +4,21 @@ Tip: bookmark this page for offline access while traveling.
 ## Most used
 
 <div class="cta-grid">
-  <a class="cta" href="check-in.md">Check-in</a>
-  <a class="cta" href="wifi-tv.md">Wi-Fi & TV</a>
-  <a class="cta" href="parking.md">Parking</a>
-  <a class="cta" href="checkout.md">Checkout</a>
-  <a class="cta" href="kitchen.md">Kitchen & waste</a>
-  <a class="cta" href="troubleshooting.md">Troubleshooting</a>
-  <a class="cta" href="house-rules.md">House rules</a>
+  [Check-in](check-in.md){ .cta }
+  [Wi-Fi & TV](wifi-tv.md){ .cta }
+  [Parking](parking.md){ .cta }
+  [Checkout](checkout.md){ .cta }
+  [Kitchen & waste](kitchen.md){ .cta }
+  [Troubleshooting](troubleshooting.md){ .cta }
+  [House rules](house-rules.md){ .cta }
 </div>
 
 ## More details
 
 <div class="cta-grid cta-grid--small">
-  <a class="cta cta--outline" href="safety.md">Safety info</a>
-  <a class="cta cta--outline" href="house-rules.md">House rules</a>
-  <a class="cta cta--outline" href="troubleshooting.md">Troubleshooting tips</a>
+  [Safety info](safety.md){ .cta .cta--outline }
+  [House rules](house-rules.md){ .cta .cta--outline }
+  [Troubleshooting tips](troubleshooting.md){ .cta .cta--outline }
 </div>
 
 ## Need help?
