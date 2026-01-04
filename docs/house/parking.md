@@ -19,6 +19,30 @@ Where to park for this home and how to avoid tickets.
 - **Snow/ice:** In winter, check around tires before driving off; we keep a shovel and ice melt by the porch.
 
 ---
+## Use of space (shared & private areas)
+
+The house is part of a small, lived-in property with a mix of **private and shared outdoor spaces**. We want guests to feel comfortable and know what to expect.
+
+**Private to your stay**
+- The **main house** is entirely yours.
+- The **front yard** is fully for guest use.
+  - This is where the outdoor seating and **grill** are located.
+  - The front area has the **best views of the :contentReference[oaicite:0]{index=0}** and is a great place to relax, eat, or enjoy the evening light.
+
+**Shared spaces**
+- The **back yard is a communal space** shared between:
+  - Us (the owners)
+  - Guests staying in the **ADU located in the garage**
+  - Kika’s office in the backyard
+  - The neighboring property behind us
+- You are welcome to use the backyard, but please expect that **other people may also be present and using the space** at times.
+
+**Not included in the rental**
+- The **ADU in the garage** has a **separate entrance in the back** and is not part of the main house rental.
+
+This setup is typical for Boulder and allows everyone to enjoy the property while maintaining privacy. If you’re looking for a quieter, more private outdoor experience, we recommend spending time in the **front yard**, which is fully yours and offers the best views.
+
+---
 ## Snow removal
 
 Boulder requires that snow and ice be cleared from the **public sidewalk adjacent to the property within 24 hours after snow stops falling**. This helps keep sidewalks safe for neighbors, kids, and anyone walking through the area.
