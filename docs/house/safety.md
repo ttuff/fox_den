@@ -1,4 +1,51 @@
-# Safety & emergency information
+# Safety & alerts
+
+Most situations in Boulder are routine and well-managed, but if you’re unsure, this page gives you the fastest path to **official, accurate information**.
+
+## When in doubt
+
+1. **Check official alerts first** (local emergency management or weather alerts).
+2. If there is **no evacuation order**, you do not need to leave.
+3. If an **official evacuation order** is issued, follow it immediately.
+4. If something seems unclear or concerning, **message us** — we are happy to help you interpret official guidance.
+
+Clear, official information is the best guide during unusual conditions.
+
+## Official sources
+
+- **Boulder Office of Emergency Management (OEM):** alerts, evacuation notices, and updates  
+  OEM website: https://www.boulderoem.com
+- **ReadyColorado:** statewide emergency preparedness guidance  
+  https://www.readycolorado.com
+- **Air quality (smoke/haze):**  
+  https://www.airnow.gov
+
+## Decision authority
+
+You do not need to “guess” in an emergency:
+- If an **official evacuation order** is issued for this area, **evacuate immediately** and follow the alert instructions.
+- If there is **no official evacuation order**, you do not need to leave. Stay informed and message us if you’re uncertain.
+
+---
+## What’s normal vs. when to message us
+
+Boulder can feel different if you’re not used to the Front Range. Here are a few things that are **normal**, and a few situations where we’d like you to **message us right away**.
+
+**Normal here**
+- Wind can be loud, especially at night.
+- Weather can change quickly (sun → wind → snow → sun).
+- Dry air can cause static shocks and dry skin.
+- Occasional smoke or haze can occur during wildfire season, even when fires are far away.
+
+**Please message us**
+- No heat or the house won’t warm up after adjusting the thermostat.
+- Any active water leak (dripping that won’t stop, wet ceiling, puddles).
+- A persistent burning smell or electrical odor.
+- Smoke inside the home (not just outside haze).
+- A door/window that won’t latch or a safety-related issue.
+
+---
+## Safety & emergency information
 
 Your safety is important to us. The information below is provided so you know what to do and where to go in the event of an emergency or urgent situation.
 
@@ -55,11 +102,11 @@ Wildfire is a normal part of Colorado’s Front Range environment, and the area 
 - Red Flag days are **not an emergency by themselves** — they are an early warning to be cautious and to stay informed.
 
 **Where to get official information**
-- **Boulder Office of Emergency Management (OEM):** official local alerts, evacuation notices, and updates  
-  OEM website: **PASTE_BOULDER_OEM_URL_HERE**
-- **ReadyColorado:** statewide emergency preparedness and guidance  
+- **Boulder Office of Emergency Management (OEM):** official local alerts, evacuation notices, and updates
+  OEM website: https://www.boulderoem.com
+- **ReadyColorado:** statewide emergency preparedness and guidance
   https://www.readycolorado.com
-- **Air quality & smoke conditions:**  
+- **Air quality & smoke conditions:**
   https://www.airnow.gov
 - Guests should rely on **official alerts and notices**, not social media rumors.
 - If there is a situation affecting the house directly, we will also message guests with verified updates.

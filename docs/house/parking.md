@@ -35,6 +35,8 @@ Boulder requires that snow and ice be cleared from the **public sidewalk adjacen
 - The snow shovel is located: **[INSERT SHOVEL LOCATION HERE]**.
 
 Thank you for helping keep the sidewalk safe and accessible in winter.
+
+For official sources and the fastest ‘what do I do now’ checklist, see: [Safety & alerts](safety.md)
 ---
 
 ## Street parking rules (Boulder)
