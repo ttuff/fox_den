@@ -41,8 +41,6 @@ Please note: **120 South 31st Street** and **120 31st Street** are **different l
 **How to confirm you’re at the right place**
 - The house has a **wooden fox** displayed in front of the **bay window**.
 - The **front door is yellow**.
-
-If you do not see the wooden fox and the yellow door, you are likely at the wrong address. If anything is unclear when you arrive, please message us — we’re happy to help you get oriented quickly.
 ---
 
 ## About your hosts
