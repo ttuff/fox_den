@@ -107,6 +107,56 @@ Strong winds are common in this area and are a normal part of Front Range weathe
 Wind here can feel intense if you’re not used to it, but it is **well-understood, well-monitored**, and part of normal life in Boulder.
 ---
 
+## Winter power outages
+
+Power outages in Boulder are **uncommon** and usually **short-lived**, even during winter storms or high-wind events. Local utilities are experienced with these conditions and restoration is typically quick.
+
+**What to expect**
+- Most outages last **minutes to a few hours**.
+- Extended outages are rare.
+- The house retains heat well for short outages, especially if doors and windows remain closed.
+
+**If the power goes out**
+- Stay inside and keep doors and windows closed to retain heat.
+- Avoid opening the refrigerator or freezer unless necessary.
+- Use battery-powered lights if needed (flashlights are safer than candles).
+
+If an outage lasts longer than expected or there is a broader issue affecting the neighborhood, we will message guests with updates when available.
+
+---
+
+## Smoke & air quality (without evacuation)
+
+During wildfire season, you may occasionally notice **smoke or haze** in the air even when there is **no nearby fire**. Smoke can travel long distances and does not mean you are in danger.
+
+**Important clarification**
+- **Smoke does NOT mean evacuation.**
+- Evacuation is only required if an **official evacuation order** is issued for this area.
+
+**What to do on smoky days**
+- Keep windows and doors closed.
+- Run indoor ventilation or air filtration if available.
+- Limit strenuous outdoor activity if smoke levels are high.
+
+**Check current air quality**
+- https://www.airnow.gov
+
+Smoke events can be uncomfortable but are usually temporary and closely monitored by public agencies.
+
+---
+
+## When in doubt
+
+If you are unsure what to do in a weather, wind, fire, or smoke situation:
+
+1. **Check official alerts first** (local emergency management or weather alerts).
+2. If there is **no evacuation order**, you do not need to leave.
+3. If an **official evacuation order** is issued, follow it immediately.
+4. If something seems unclear or concerning, **message us** — we are happy to help you interpret official guidance.
+
+Clear, official information is the best guide during unusual conditions.
+---
+
 ## Host support during urgent situations
 For non-life-threatening but urgent issues (water leaks, power loss, lock issues, safety concerns):
 
