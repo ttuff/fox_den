@@ -45,6 +45,68 @@ Boulder experiences a range of environmental conditions. While most days are mil
 
 We monitor conditions closely and will work hard to make sure you are informed if severe weather is approaching and action may be needed. However, guests are ultimately responsible for staying aware of weather conditions and official alerts during their stay.
 
+---
+## Wildfire
+
+Wildfire is a normal part of Colorado’s Front Range environment, and the area is supported by **extensive public safety systems** at the local, county, and state level. Most wildfire activity does **not** affect day-to-day life, but it’s important to know where to get accurate information and what to do if conditions change.
+
+**Fire weather & warnings**
+- On hot, dry, and windy days you may hear about **Red Flag Warning** days. These are issued by weather agencies when conditions could allow fires to start or spread more easily.
+- Red Flag days are **not an emergency by themselves** — they are an early warning to be cautious and to stay informed.
+
+**Where to get official information**
+- **Boulder Office of Emergency Management (OEM):** official local alerts, evacuation notices, and updates  
+  OEM website: **PASTE_BOULDER_OEM_URL_HERE**
+- **ReadyColorado:** statewide emergency preparedness and guidance  
+  https://www.readycolorado.com
+- **Air quality & smoke conditions:**  
+  https://www.airnow.gov
+- Guests should rely on **official alerts and notices**, not social media rumors.
+- If there is a situation affecting the house directly, we will also message guests with verified updates.
+
+**Sign up for alerts (recommended)**
+- If you will be staying for more than a short visit, consider signing up for **Boulder emergency alerts** via the OEM website above.
+- Alerts are location-based and provide clear instructions if action is needed.
+
+**Smoke vs. wildfire evacuation (important)**
+- **Smoke in the air does NOT mean you need to evacuate.**
+- Smoke can travel long distances from fires that are many miles away.
+- Evacuation is only required if an **official evacuation order** is issued for this specific area.
+
+**What to do if there is a wildfire nearby**
+- If there is **no evacuation order**, you do not need to leave.
+- If an **evacuation order is issued**, leave immediately and follow the directions in the alert.
+- Evacuation notices clearly state **when to evacuate and where to go** (safe routes or shelters).
+- Do not wait to assess conditions yourself — official orders are conservative and designed to keep people safe.
+
+**If evacuation is required**
+- Take essentials only (ID, phone, wallet, medications).
+- Close windows and doors if time allows.
+- Follow posted evacuation routes and instructions from authorities.
+
+Wildfires are closely monitored here, and evacuation orders are **rare but taken very seriously** when they occur.
+
+---
+
+## Wind
+
+Strong winds are common in this area and are a normal part of Front Range weather patterns. The house is built for these conditions and **regularly withstands windstorms without issue**.
+
+- The National Center for Atmospheric Research (NCAR), located about **½ mile away**, is the official local reference point for wind speed and weather observations.
+- Windstorms can **mobilize loose outdoor items** such as furniture, branches, trash bins, and lightweight objects.
+
+**During high-wind events**
+- Avoid being outside during peak wind — **flying debris can be dangerous**.
+- Secure or move lightweight outdoor items inside.
+- Keep windows closed.
+
+**What to expect**
+- Wind can be loud, especially at night.
+- Brief power outages are uncommon but possible during extreme wind events; service is usually restored quickly.
+
+Wind here can feel intense if you’re not used to it, but it is **well-understood, well-monitored**, and part of normal life in Boulder.
+---
+
 ## Host support during urgent situations
 For non-life-threatening but urgent issues (water leaks, power loss, lock issues, safety concerns):
 
