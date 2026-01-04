@@ -30,6 +30,21 @@ Boulder is a unique town. It’s an outdoor‑oriented, residential college comm
 
 This home is located in a quiet residential neighborhood, and we ask guests to treat it as a peaceful place to unwind after a full day exploring. Whether you’re coming back from the trails, a football game, a conference, or downtown Pearl Street, we hope this feels like a comfortable place to slow down, open the windows, and recharge.
 
+---
+## Finding the house (important)
+
+Please note: **120 South 31st Street** and **120 31st Street** are **different locations** about a block apart. Guests sometimes accidentally go to the wrong address.
+
+**Our address**
+- **120 South 31st Street**
+
+**How to confirm you’re at the right place**
+- The house has a **wooden fox** displayed in front of the **bay window**.
+- The **front door is yellow**.
+
+If you do not see the wooden fox and the yellow door, you are likely at the wrong address. If anything is unclear when you arrive, please message us — we’re happy to help you get oriented quickly.
+---
+
 ## About your hosts
 We’re your hosts, Kika and Ty, and we live right next door. We’re both scientists by training, with degrees in ecology and evolution, and Boulder has been our long‑term home. One of us runs a Boulder‑based science communication company focused on helping researchers share their work clearly and creatively, and the other is a scientist at the University of Colorado Boulder working with large environmental and climate datasets. Our work keeps us closely connected to the university, the outdoors, and the local community.
 
