@@ -40,6 +40,8 @@ Before heading out:
 - Carry water, layers, and sun protection.
 - Allow extra time for return travel.
 
+For official sources and the fastest ‘what do I do now’ checklist, see: [Safety & alerts](../house/safety.md)
+
 ## Local advice
 If you’d like help choosing a day trip based on the season, how much time you have, fitness level or accessibility, or weather conditions, just ask — we’re happy to help you plan something that fits your stay.
 

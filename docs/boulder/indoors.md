@@ -2,6 +2,8 @@
 
 While Boulder is famous for the outdoors, there’s plenty to do inside — especially on windy days, during snowstorms, wildfire smoke events, or when you just want something low-key. This page highlights indoor options for families, fitness-minded guests, and anyone looking for culture or entertainment.
 
+For official sources and the fastest ‘what do I do now’ checklist, see: [Safety & alerts](../house/safety.md)
+
 ## Indoor activities for kids & families
 Great options for younger visitors or family downtime.
 - **[WOW! Children’s Museum](https://wowchildrensmuseum.org)** – Hands-on exhibits, art, and play spaces for younger kids.

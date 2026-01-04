@@ -21,6 +21,8 @@ This page covers the basics so you can settle in quickly. If anything isn’t cl
 - You’re welcome to adjust it for comfort. Temperature ranges are set within reasonable limits; if something feels off, just let us know.
 - Boulder note: Wind and rapid weather changes can affect indoor temperature — the system may take a bit of time to respond.
 
+For official sources and the fastest ‘what do I do now’ checklist, see: [Safety & alerts](safety.md)
+
 ## Hot water
 - Hot water is available throughout the house; normal showers and household use are no problem.
 - If multiple long showers are taken back-to-back, recovery may take some time.
