@@ -8,12 +8,24 @@ This page covers the basics so you can settle in quickly. If anything isn’t cl
 - Wi‑Fi works throughout the house and is suitable for streaming and video calls.
 - If the internet goes down, we typically experience the same outage next door and will be aware quickly.
 
-## TV & streaming
-- The TV uses Roku for streaming.
-- Turn on the TV → Roku home screen.
-- Sign in using your own streaming accounts (Netflix, Hulu, Prime, etc.).
-- No cable TV is provided.
-- For your privacy, guest accounts are automatically logged out after checkout.
+## TV & Roku (Guest Mode)
+
+The TV uses **Roku Guest Mode**, which is designed specifically for short-term stays and protects your privacy.
+
+**How it works**
+- When you turn on the TV, Roku will ask you to **enter your checkout date**.
+- After that date, **all personal information and app logins are automatically deleted**.
+- This allows you to safely sign in to your own streaming apps during your stay.
+
+**Watching TV**
+- You’re welcome to log in to your favorite streaming services.
+- If you don’t want to log in, Roku also offers **free live and on-demand programming** that does not require an account.
+
+**Privacy**
+- No accounts, passwords, or viewing history are retained after your stay.
+- Guest Mode resets automatically based on the checkout date you enter.
+
+If anything about the TV setup is unclear, feel free to message us and we’re happy to help.
 
 ## Thermostat & temperature
 - The house uses an ecobee smart thermostat.
